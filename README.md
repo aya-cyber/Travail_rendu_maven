@@ -21,10 +21,16 @@ Ce projet illustre l'intégration d'une application Java avec une base de donné
 
 ## Prérequis
 
-Avant de commencer, assurez-vous d'avoir installé les éléments suivants :
+
 
 - Java Development Kit (JDK) 8 ou supérieur
 - Maven ou Gradle (selon votre configuration)
 - Une base de données relationnelle (MySQL, PostgreSQL, etc.)
 - Un IDE comme IntelliJ IDEA pour développer et exécuter le projet
+
+  
+
+https://github.com/user-attachments/assets/dc1082fd-2643-4f9f-ba01-f1807cc6301c
+
+
 
